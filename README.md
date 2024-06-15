@@ -1,8 +1,8 @@
 # payloads-ps4-1100
-PS4 Payloads FW1100 Collection
+PS4 Payloads Collection FW11.00
 
 Include
-###############################
+##############################
 ps4-app-dumper.bin
 ps4-app2usb.bin
 ps4-dbbackup.bin
